@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Anya 👋
 
-<!--
-**anyali-1015/anyali-1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在从零开始学习用 AI 工具（Claude）做开发，从写自动化脚本、小工具，到搭建网页和 Skill。这个主页会随着我做的新项目持续更新。
 
-Here are some ideas to get you started:
+### 🌱 目前在做的事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+用 Claude 学习基础的编程和 Git/GitHub 工作流；把日常工作中的重复任务写成自动化 Skill；尝试独立做一些小网页、小工具项目。
+
+### 📌 项目
+
+（陆续更新中，欢迎回来看看）
+
+### 📫 联系我
+
+Email: anya.li@token.im
+
+---
+
+非技术背景转型中，边做边学。
