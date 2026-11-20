@@ -1,6 +1,6 @@
 ## Hi, I'm Anya (Wenyan Li) 👋
 
-Data analyst in Singapore. I answer business questions with data: which campaign worked, where users drop off, what a partner is owed. SQL and Python across app, web and on-chain data, and I build my own tools with AI (Claude Code).
+Data analyst in Singapore. I answer business questions with data: which campaign worked, where users drop off, what a partner is owed. SQL and Python across app, web and on-chain data, and I build my own tools with AI.
 
 [![Website](https://img.shields.io/badge/Website-anyali--1015.github.io-111111?style=flat)](https://anyali-1015.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wenyanli--2023ntu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenyanli-2023ntu/)
