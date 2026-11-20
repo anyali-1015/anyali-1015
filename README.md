@@ -39,7 +39,7 @@ Built 3 PySpark analysis frameworks with one definition each for DAU, retention 
 I'm not a software engineer by training. I write the spec, make the product calls, test and ship, with Claude Code doing most of the typing. Each project solves a problem I actually had.
 
 ### 🤖 [Asteron](https://github.com/anyali-1015/asteron-site): an AI trader that follows your plan · hackathon, team of two
-<img src="https://anyali-1015.github.io/assets/asteron.png" width="320" align="right" alt="Asteron landing page">
+<img src="assets/asteron.png" width="320" align="right" alt="Asteron landing page">
 
 You write the trading plan; Asteron executes it word for word.
 - Entry rules, exits and drawdown limits run around the clock on Hyperliquid
@@ -59,7 +59,7 @@ An English speaking coach for advanced learners.
 `Next.js` `TypeScript` `Gemini API` `IndexedDB`
 
 ### 💪 [薄肌俱乐部 BodyNav](https://github.com/anyali-1015/bodynav): body-proportion training planner · hackathon team project
-<img src="https://anyali-1015.github.io/assets/bodynav.png" width="220" align="right" alt="BodyNav screenshot">
+<img src="assets/bodynav.png" width="220" align="right" alt="BodyNav screenshot">
 
 Take a full-body photo and see how your proportions compare with your goal.
 - A transparent rule engine decides which muscle groups to prioritise, and every conclusion traces back to the rule and number behind it
